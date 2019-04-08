@@ -13,6 +13,7 @@
 		9BE6C5B522548CD50068FAE8 /* CoreDataPoc.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9BE6C5B322548CD50068FAE8 /* CoreDataPoc.xcdatamodeld */; };
 		9BE6C5B722548CD80068FAE8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BE6C5B622548CD80068FAE8 /* Assets.xcassets */; };
 		9BE6C5BA22548CD80068FAE8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BE6C5B822548CD80068FAE8 /* LaunchScreen.storyboard */; };
+		9BE6C5C22255B8160068FAE8 /* UserDetailTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BE6C5C12255B8160068FAE8 /* UserDetailTVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9BE6C5B622548CD80068FAE8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9BE6C5B922548CD80068FAE8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9BE6C5BB22548CD80068FAE8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9BE6C5C12255B8160068FAE8 /* UserDetailTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDetailTVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				9BE6C5B822548CD80068FAE8 /* LaunchScreen.storyboard */,
 				9BE6C5BB22548CD80068FAE8 /* Info.plist */,
 				9BE6C5B322548CD50068FAE8 /* CoreDataPoc.xcdatamodeld */,
+				9BE6C5C12255B8160068FAE8 /* UserDetailTVC.swift */,
 			);
 			path = CoreDataPoc;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9BE6C5AF22548CD50068FAE8 /* ViewController.swift in Sources */,
+				9BE6C5C22255B8160068FAE8 /* UserDetailTVC.swift in Sources */,
 				9BE6C5AD22548CD50068FAE8 /* AppDelegate.swift in Sources */,
 				9BE6C5B522548CD50068FAE8 /* CoreDataPoc.xcdatamodeld in Sources */,
 			);
